@@ -2,6 +2,8 @@
 
 - [Beta Reviewers Auto-update Tester](https://github.com/TfTHacker/obsidian42-brat)：安装未在插件市场的插件
 - [Code Tab](https://github.com/lazyloong/obsidian-code-tab)：类似LeetCode代码的分栏样式
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+  - [dataview-publisher](https://github.com/udus122/dataview-publisher)：将Dataview的查询结果输出为md双链
 - [Epub Importer](https://github.com/aoout/obsidian-epub-importer)：导入epub文件到Obsidian
 - [Language Learner](https://github.com/guopenghui/obsidian-language-learner)：利用Obsidian来学英语
 - [Media Extended](https://github.com/PKM-er/media-extended)
