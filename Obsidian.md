@@ -9,7 +9,9 @@
 - [Media Extended](https://github.com/PKM-er/media-extended)
 - [Obsidian to Notion](https://github.com/EasyChris/obsidian-to-notion)：分享Obsidian的文件到Notion
 - [Paste Image Rename](https://github.com/reorx/obsidian-paste-image-rename)：将粘贴的图片重命名
+- [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace)：正则替换
 - [Remotely Save](https://github.com/remotely-save/remotely-save)：非官方的同步
 - [Surfing](https://github.com/PKM-er/Obsidian-Surfing)：在Obsidian中直接打开网页
+- [Global Search and Replace for Obsidian](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)：在Obsidian整个库的范围内进行查找替换
 - [Tag Summary](https://github.com/macrojd/tag-summary)：利用标签来汇总笔记
 - [TikZJax](https://github.com/artisticat1/obsidian-tikzjax)：在Obsidian中绘制LaTex图像
