@@ -1,5 +1,6 @@
 ### 插件列表
 
+- [Advanced URI](https://github.com/Vinzent03/obsidian-advanced-uri)：以URL打开Obsidian的制定内容，丰富官方的功能
 - [Beta Reviewers Auto-update Tester](https://github.com/TfTHacker/obsidian42-brat)：安装未在插件市场的插件
 - [Code Tab](https://github.com/lazyloong/obsidian-code-tab)：类似LeetCode代码的分栏样式
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
